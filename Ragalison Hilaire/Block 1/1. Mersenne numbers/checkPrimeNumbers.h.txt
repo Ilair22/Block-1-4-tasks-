@@ -2,7 +2,6 @@
   adress email: st085683@student.spbu.ru ;
   Цель задачи: вывести на экран все простые числа Мерсенна на отрезке [1; 2^31 -1] */
 
-
 #include <stdbool.h>
 
 bool isPrime(int n)

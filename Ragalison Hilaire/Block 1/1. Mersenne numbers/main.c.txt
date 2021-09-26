@@ -2,7 +2,6 @@
   adress email: st085683@student.spbu.ru ; 
   Цель задачи: вывести на экран все простые числа Мерсенна на отрезке [1; 2^31 -1] */
 
-
 #include <stdio.h>
 #include <math.h>
 #include "checkPrimeNumbers.h"
@@ -30,4 +29,3 @@ int main()
     };
     return 0;
 }
-
