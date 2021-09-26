@@ -19,13 +19,13 @@ int main()
 {
     unsigned int a1, a2, a3;
     printf("\nEnter any natural number: ");
-    scanf("%u", &a1);
+    scanf_s("%u", &a1);
 
     printf("Enter any natural number: ");
-    scanf("%u", &a2);
+    scanf_s("%u", &a2);
 
     printf("Enter any natural number: ");
-    scanf("%u", &a3);
+    scanf_s("%u", &a3);
 
     if (isPythagorean1(a1, a2, a3))
     {
